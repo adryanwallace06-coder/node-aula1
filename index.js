@@ -1,6 +1,5 @@
-const soma = (a, b) => {
-    return a + b;
-}
-// () => {} arrow function
+const soma = require("./soma.js")
+
+
 const resultado = soma(3, 5);
  console.log (resultado);
