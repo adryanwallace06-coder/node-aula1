@@ -1,0 +1,1 @@
+const resultado = soma(3, 5);
